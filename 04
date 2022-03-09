@@ -1,0 +1,26 @@
+var nome = "Matheus"
+var notaDoPrimeiroBimestre = 9.123
+var notaDoSegundoBimestre = 7.45
+var notaDoTerceiroBimestre = 4.77
+var notaDoQuartoBimestre = 2.9
+
+
+var notaFinal = (notaDoPrimeiroBimestre + notaDoSegundoBimestre + notaDoTerceiroBimestre + notaDoQuartoBimestre) / 4
+
+var notaFixada = notaFinal.toFixed(1)
+
+console.log("Bem vindo "+ nome)
+console.log(notaFixada)
+
+// padrao de comentario
+
+
+// Revisão
+// Variaveis, Strings, console.log, toFixed, Operações Matemáticas, Concatenação, Console
+// desafios fazer uma variavel para somar as notas e outra para pegar ela e dividir
+// condicional para ver se o aluno passou, baseado em alguma media
+// conersor de temperaturas
+// conversor de moeda estrangeira
+// milha para kilometro
+// sistema internacional, polegada para metro... 
+// colocar a conta toda na tela, enteder esse do to fixed
