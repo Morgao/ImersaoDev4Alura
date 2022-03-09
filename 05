@@ -10,3 +10,14 @@ function Converter() {
   var valorConvertido = "O Resultado em Real é R$ " + valorEmReal;
   elementoValorConvertido.innerHTML = valorConvertido;
 }
+
+// desafios
+// on click, converter
+
+// outro conversor, quantos anos para viajar de uma estrela a outra (quantos anos leva na velocidade da luz) km para anos/luz
+// conveter em euro/ libra, conversor de temperatura, 
+// linha de baixo valor em  bitcoins
+
+
+
+
